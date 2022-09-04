@@ -1,0 +1,17 @@
+.body{
+    background-color:rgb(150, 61, 168);
+}
+#main-heading{
+    color: red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.site-images{
+    width: 350px;
+    height: 400px;
+}
+#main-image{
+    width:400px;
+    height:200px;
+}
+#menu{text-align: right;}
